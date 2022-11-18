@@ -1,5 +1,4 @@
-# awesome-startup-saas-tools
-
+# code.awesome-startup-saas-tools
 
 ## requirements and prototype
 - [设计原型平台 penpot](https://penpot.app/)
@@ -10,10 +9,10 @@
 
 ## design
 - [1. 制图 Figma](https://www.figma.com/figjam/)
-- [2. 无损放大](http://bigjpg.com)
-- [3. 矢量图片](http://iconfont.cn)
-- [4. 配色](http://colorhunt.co)
-- [5. 套壳效果](http://pika.style)
+- [2. 无损放大 Bigjpg](http://bigjpg.com)
+- [3. 矢量图片 Iconfont](http://iconfont.cn)
+- [4. 配色 Colorhunt](http://colorhunt.co)
+- [5. 套壳效果 Pika](http://pika.style)
 - [分享Sketch_xd_psd_AI Avocode](http://avocode.com/)
 - [AI_辅助设计 VisilyAI](https://app.visily.ai/)
 
@@ -21,18 +20,20 @@
 - [设计素材 Dribbble](https://dribbble.com/)
 - [素材 Lexica Art](https://lexica.art/)
 - [素材灵感 Addog](https://www.addog.vip/)
-- [AI Art](https://multimodal.art/)
+- [AI Art Multimodal](https://multimodal.art/)
 - [标题标语 MicroCopy]() persuasive headlines and slogans
-- [素材资源](https://oncyber.io/)
-- [免费资源](https://www.thosefree.com/)
+- [素材资源 Oncyber](https://oncyber.io/)
+- [免费资源 Thosefree](https://www.thosefree.com/)
 - [开源插画 Undraw](https://undraw.co/illustrations)
 - [摄影图片和视频 Pexels](https://pexels.com/zh-cn/)
 - [伪数据 Fakeyou](https://fakeyou.com/) make your text sound like the voice of your favourite characters.
 
 ## UI Components
-- [Tailwind组件 Tailwind UI](https://tailwindui.com/) Build your next idea even faster.
-- [拖放构建器 Shuffle.dev](https://shuffle.dev/) Create HTML responsive engaging adaptable excellent templates in minutes
-- [TailwindCSS拖放创建器 Tails](https://devdojo.com/tails)
+- [Tailwind组件 TailwindUI](https://tailwindui.com/) Build your next idea even faster.
+- [Tailwind组件 DaisyUI](https://daisyui.com/)
+- [Tailwind组件 HyperUI](https://www.hyperui.dev/)
+- [Tailwind拖放创建器 Tails](https://devdojo.com/tails)
+- [拖放构建器 Shuffle](https://shuffle.dev/) Create HTML responsive engaging adaptable excellent templates in minutes
 - 5.1k [预建Tailwind CSS组件 Tailwind Starter Kit](https://github.com/creativetimofficial/tailwind-starter-kit)
 - 2.5k [Tailwind组件和模板 Tail-Kit](https://www.tailwind-kit.com/)
 - 1.6k [开源TailwindCSS组件 MerakiUI](https://merakiui.com/)
@@ -42,7 +43,7 @@
 - [设计工具创建前端组件 Modulz](https://www.modulz.app/) Design in the target medium. Prototype with real components. Handoff production code.
 - [前端组件构建器 Hadron](https://hadron.app/) Hadron is a development environment for designers and developers who work together towards the same goal, moving ideas forward and learning from each other along the way.
 - 82.6k [Ant Design](https://ant.design/) 一个绝对非凡的CSS框架，看起来很漂亮，可以访问，并支持大量组
-- 50.3k [semantic-ui](https://semantic-ui.com/) Semantic is a UI component framework based around useful principles from natural language.
+- 50.3k [Semantic-ui](https://semantic-ui.com/) Semantic is a UI component framework based around useful principles from natural language.
 - 46.4k [Bulma](https://bulma.io/) Bulma: the modern CSS framework that just works.
 - 22.4k [Quasar](https://quasar.dev/) 一个相当先进的Vue.js组件库，可以从相同的代码库生成多平台应用程序
 - 16.9k [Framework7](https://framework7.io/) Build full featured iOS, Android & Desktop apps
@@ -53,57 +54,57 @@
 - [DraftBit](https://draftbit.com/) Draftbit is the pro-code native app builder, offering the most powerful and flexible way to visually create, customize, and launch native mobile apps.
 - [Thunkable](https://thunkable.com/) No Code Mobile App Development Made Easy
 - [设计+开发实时协作 Relate](https://relate.app/) Relate is a simple and intuitive environment to create the web as if you're editing a document.
-- [Sketch2Code Supernova Studio](https://supernova.io/) Supernova helps you build, mature, and scale your design system with ease. From powerful documentation to efficient design system management, it's the ideal end-to-end platform that grows with your design system.
+- [Sketch2Code Supernova](https://supernova.io/) Supernova helps you build, mature, and scale your design system with ease. From powerful documentation to efficient design system management, it's the ideal end-to-end platform that grows with your design system.
 - [设计界面2UI组件 Yotako](https://www.yotako.io/) Adobe XD to WordPress. Free forever. No code required.
-ssssssss 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, Linux, Web, and tvOS.
+- 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, Linux, Web, and tvOS.
 
 ## React Series
 - [类Figma构建React组件 Visly](https://visly.app/)
 - [Divjoy](https://divjoy.com/) 生成一个全栈React应用程序，内置登录页面、身份验证、数据库和托管配置。
 - 98k [Create React App](https://create-react-app.dev/) 官方支持的创建单页 React 应用程序的方式。它提供了一个没有配置的现代构建设
-- 29.7k [React可视化拖放构建] [Chakra UI](https://chakra-ui.com/) Simple, Modular & Accessible UI Components for your React Applications
+- 29.7k [React可视化拖放构建 Chakra UI](https://chakra-ui.com/) Simple, Modular & Accessible UI Components for your React Applications
 - 2.7k [OpenChakra](https://openchakra.app/) Full-featured visual editor and code generator for React using Chakra UI
 
 ## Collaborations
 - [Slack](https://slack.com/)
-- [discord](https://discord.com/)
-- [协作管理](https://www.cornerstone365.cn/cooperation.html) 科学量化团队表现。
-- [clickup](https://clickup.com/) central hub for projects and communication.
-- [notejoy](https://notejoy.com/) collaborative note-taking solution.
-- 24.1k [开源看板 mattermost](https://github.com/mattermost/mattermost-server)
+- [Discord](https://discord.com/)
+- [协作管理 Cornerstone365](https://www.cornerstone365.cn/cooperation.html) 科学量化团队表现。
+- [Clickup](https://clickup.com/) central hub for projects and communication.
+- [Notejoy](https://notejoy.com/) collaborative note-taking solution.
+- 24.1k [开源看板 Mattermost](https://github.com/mattermost/mattermost-server)
 
 ## Online Content Create
 - [Kapwing](https://www.kapwing.com/) 一个用于创建和编辑图像、视频和GIF的协作平台。拥有强大的工作室编辑器以及专门构建的工具。
 
 ## Frontend
-- [miniapp finclip](https://www.finclip.com/pricing/)
+- [Miniapp Finclip](https://www.finclip.com/pricing/)
 - 4k [前端代码转换](https://transform.tools/)
 
 ## Quick Landing Page
-- [复制粘贴生成登录页面 frontendor](https://frontendor.com/)
-- [借助预先设计的块建站 Startup 3](https://designmodo.com/startup/)
-- [landing_page webflow](https://webflow.com/) html5 responsive landing page templates.
+- [复制粘贴生成登录页面 Frontendor](https://frontendor.com/)
+- [借助预先设计的块建站 Startup](https://designmodo.com/startup/)
+- [landing_page Webflow](https://webflow.com/) html5 responsive landing page templates.
 - [Cruip](https://cruip.com/) 设计精美的HTML、React、Vue.js和Tailwind模板。您可以立即设置启动登录页
-- [landingfolio](https://landingfolio.com/templates/landing-page) 精选的最佳免费和优质登陆页面，以确保您的下一个设计项目的最佳质
+- [Landingfolio](https://landingfolio.com/templates/landing-page) 精选的最佳免费和优质登陆页面，以确保您的下一个设计项目的最佳质
 
 ## Online Form Builder
-- [formik](https://formik.com/) The form builder for the modern web.
-- [tally](https://tally.so/) Create forms for all purposes in seconds. Without knowing how to code, and for free!
-- [paperform](https://paperform.co/) Paperform is an online form builder like no other. It combines serious digital smarts with beautiful design to create endless possibilities.
-- [google表单](https://www.google.com/forms/about) 轻松创建和共享在线表单和调查问卷，并实时分析回复。
+- [Formik](https://formik.com/) The form builder for the modern web.
+- [Tally](https://tally.so/) Create forms for all purposes in seconds. Without knowing how to code, and for free!
+- [Paperform](https://paperform.co/) Paperform is an online form builder like no other. It combines serious digital smarts with beautiful design to create endless possibilities.
+- [Google Forms](https://www.google.com/forms/about) 轻松创建和共享在线表单和调查问卷，并实时分析回复。
 - [Arengu](https://www.arengu.com/) Create self-service signup flows with any stack and scenario. Visually build the UI, logic and automate your user onboarding with no effort.
 - 8.8k [Form Builder(React/Vue 2/3) Formily](https://github.com/alibaba/formily) Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 
 ## Visual Web Builder
 - [AppGyver](https://www.appgyver.com/) Build professional apps visually.
-- [设计建站 framer](https://www.framer.com/sites/) build websites in a design tool similar to figma and webflow. To replace figma and webflow.
+- [设计建站 Framer](https://www.framer.com/sites/) build websites in a design tool similar to figma and webflow. To replace figma and webflow.
 - [Bildr](https://www.bildr.com/) Visual web development in your browser. Created by the builders, for the builders.
-- [uibakery](https://uibakery.io/) Internal tools built with ease UI Bakery is a low-code platform to build web apps you never had time for.
+- [UIbakery](https://uibakery.io/) Internal tools built with ease UI Bakery is a low-code platform to build web apps you never had time for.
 - [Bubble](https://bubble.io/) Visual Web app builder。可以从[Zeroqode](https://zeroqode.com/) 的模板开始，或阅读[如何构建](https://bubble.io/how-to-build)
 - 16.8k [GrapesJS](https://grapesjs.com/) 一个开源框架，允许您制作自己的网站建设
 
 ## Full Stack
-- [remaketheweb](https://remaketheweb.com/) 我制作了这个产品。它允许您使用仅使用几个HTML属性来定义Web应用程序
+- [Remaketheweb](https://remaketheweb.com/) 我制作了这个产品。它允许您使用仅使用几个HTML属性来定义Web应用程序
 - 12.3k [Blitz](https://blitzjs.com/) 一个真正起飞的框架！全栈Node.js框架，允许您在React组件中导入服务
 - 4.5k [Inertia.js](https://inertiajs.com/) 一个令人兴奋的框架，为您提供具有经典服务器驱动代码的前端框架的即时、实时交
 - 513 [Hyperstack](https://hyperstack.org/) 用一种语言构建您的用户界面、前端逻辑和后端逻辑：Rub
@@ -112,7 +113,7 @@ ssssssss 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, L
 - [Elm](https://elm-lang.org/) 一种有助于启发React的语言！它有一个简单、易于使用的API，有助于节省您的时间，并编译为普通的JavaScr
 - [Imba](https://www.imba.io/) 一种专为构建Web应用程序而设计的令人惊叹的新语言。基于Ruby。将DOM元素视为头
 - [Anvil](https://anvil.works/) 仅使用Python构建全栈Web应用程序。一个多合一的框架，附带UI构建器、数据库连接器和用户帐户
-- 22.2k [Vapor](https://vapor.codes/) 一个服务器端的Swift框架，为所有常见的Web应用程序API提供了一个不错的界面
+- 22.2k [服务器端的Swift Vapor](https://vapor.codes/) 一个服务器端的Swift框架，为所有常见的Web应用程序API提供了一个不错的界面
 - 4.9k [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view) 这是一_个非常令_人兴奋的框架，允许您使用服务器渲染的HTML构建具有实时体验的Web应用
 - 2.7k [Mavo](https://mavo.io/) 使用利用HTML简单性的声明性语言构建交互式网站和网络应用
 
@@ -214,10 +215,10 @@ ssssssss 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, L
 - [通用业务框架 Rryton](https://www.tryton.org/)
 ### 进程管理、任务调度、流程自动化
 - 10.2k [Prefect](https://github.com/PrefectHQ/prefect) :  一个现代的工作流程编排框架，使构建、计划和监视健壮的数据管道变得容易。
-- 9.9k [schedule](https://github.com/dbader/schedule) :  人性化的 Python 任务调度库。
+- 9.9k [Schedule](https://github.com/dbader/schedule) :  人性化的 Python 任务调度库。
 - 4.6k [APScheduler](https://apscheduler.readthedocs.org/en/latest/) :  轻巧但强大的进程内任务调度，使你可以调度函数。
-- 4.2k [huey](https://github.com/coleifer/huey) :  小型多线程任务队列。
-- 3.3k [daramatiq](https://github.com/Bogdanp/dramatiq) :  适用于Python 3的快速可靠的后台任务处理库。
+- 4.2k [Huey](https://github.com/coleifer/huey) :  小型多线程任务队列。
+- 3.3k [Daramatiq](https://github.com/Bogdanp/dramatiq) :  适用于Python 3的快速可靠的后台任务处理库。
 ### System and Container
 - 11.2k [K8s管理](https://github.com/kubesphere/kubesphere)
 - 7.3k [服务器管理](https://github.com/cockpit-project/cockpit)
@@ -226,28 +227,28 @@ ssssssss 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, L
 - [代码美化](https://ray.so/)
 - [代码美化](https://www.codepng.app/)
 - [目录树生成](https://devtool.tech/tree)
-- 34.6k [zx](https://github.com/google/zx) 更好地编写脚本的工具
-- 16.8k [cli2gui Gooey](https://github.com/chriskiehl/Gooey)
+- 34.6k [Zx](https://github.com/google/zx) 更好地编写脚本的工具
+- 16.8k [Cli2gui Gooey](https://github.com/chriskiehl/Gooey)
 - 485 [Portman](https://github.com/apideck-libraries/portman) 用OpenAPI和Postman测试API的新方法
 ### Code Analytics
-- 2.7k [code2flow](https://github.com/scottrogowski/code2flow) :  把你的 Python 和 JavaScript 代码转换为流程图。
-- 1.7k [pycallgraph](https://github.com/gak/pycallgraph) :  这个库可以把你的 Python 应用的流程(调用图) 进行可视化。
+- 2.7k [Code2flow](https://github.com/scottrogowski/code2flow) :  把你的 Python 和 JavaScript 代码转换为流程图。
+- 1.7k [Pycallgraph](https://github.com/gak/pycallgraph) :  这个库可以把你的 Python 应用的流程(调用图) 进行可视化。
 ### Tracker
-- 1.6k [pyringe](https://github.com/google/pyringe) :  能够附加到 Python 进程并将代码注入Python进程的调试器。
-- 686 [lptrace](https://github.com/khamidou/lptrace) :  为 Python 程序打造的 [strace](https://man7.org/linux/man-pages/man1/strace.1.html) 。
+- 1.6k [Pyringe](https://github.com/google/pyringe) :  能够附加到 Python 进程并将代码注入Python进程的调试器。
+- 686 [Lptrace](https://github.com/khamidou/lptrace) :  为 Python 程序打造的 [strace](https://man7.org/linux/man-pages/man1/strace.1.html) 。
 ### 性能分析器
-- 9.2k [py-spy](https://github.com/benfred/py-spy) :  Python 程序采样分析器，使用 Rust 实现。
-- 3.9k [vprof](https://github.com/nvdv/vprof) :  视觉 Python 分析器。
+- 9.2k [Py-spy](https://github.com/benfred/py-spy) :  Python 程序采样分析器，使用 Rust 实现。
+- 3.9k [Vprof](https://github.com/nvdv/vprof) :  视觉 Python 分析器。
 ### Command Line
-- 40.2k [rich](https://github.com/willmcgugan/rich) :  一个在终端中支持富文本和格式美化的 Python 库， 同时提供了`RichHandler`日志处理程序。
-- 23.2k [python-fire](https://github.com/google/python-fire) :  Google 出品的一个基于 Python 类的构建命令行界面的库。
+- 40.2k [Rich](https://github.com/willmcgugan/rich) :  一个在终端中支持富文本和格式美化的 Python 库， 同时提供了`RichHandler`日志处理程序。
+- 23.2k [Python-fire](https://github.com/google/python-fire) :  Google 出品的一个基于 Python 类的构建命令行界面的库。
 ### 代码覆盖率
-- 2.2k [coverage](https://github.com/nedbat/coveragepy) :  代码覆盖率测量。
+- 2.2k [Coverage](https://github.com/nedbat/coveragepy) :  代码覆盖率测量。
 
 ## CMS
-- 26.6k [odoo-cms](https://www.odoo.com/) 一个开源的，企业级 CMS，基于 odoo。
+- 26.6k [Odoo-cms](https://www.odoo.com/) 一个开源的，企业级 CMS，基于 odoo。
 - 13.2k [Wagtail](https://wagtail.io/) 一个 Django 内容管理系统。
-- 8.9k [django-cms](https://www.django-cms.org/en/) 一个开源的，企业级 CMS，基于 Django。
+- 8.9k [Django-cms](https://www.django-cms.org/en/) 一个开源的，企业级 CMS，基于 Django。
 - 2.2k [Quokka](https://github.com/quokkaproject/quokka) 灵活，可扩展的小型 CMS，基于 Flask 和 MongoDB。
 - 1.8k [Wooey](https://github.com/wooey/wooey) 一个 Django 应用，可以为 Python 脚本创建 web 用户界面。
 
@@ -262,10 +263,10 @@ ssssssss 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, L
 - 3.2k [SaaS async-labs](https://github.com/async-labs/saas) 基于React和Node构建的开源SaaS入门套件。支持用户帐户、团队、Stripe订阅和文件上传。
 
 ## Admin Dashboard
-- [forestadmin](https://www.forestadmin.com/) 构建强大管理面板的框架。可以与Hasura结合使用超能力开发
+- [Forestadmin](https://www.forestadmin.com/) 构建强大管理面板的框架。可以与Hasura结合使用超能力开发
 - [BaseDash](https://www.basedash.com/) The fastest way to make an admin panel.
 - 20.9k [React Admin](https://marmelab.com/react-admin/) The React Framework For B2B Apps
-- 2.5k [backpackforlaravel](https://backpackforlaravel.com/) build and customize admin panels using Laravel.
+- 2.5k [Backpackforlaravel](https://backpackforlaravel.com/) build and customize admin panels using Laravel.
 
 ## Backend As A Service
 - [Xano](https://www.xano.com/) 无代码后端, 自定义API端点
@@ -533,3 +534,5 @@ ssssssss 1.5k [BeeWare](https://beeware.org/) Python 2 iOS, Android, Win, Mac, L
 - [最小化容器 6kB](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
 - [hexo-admin-wordpress](https://github.com/zhaoolee/wordpressxmlrpctools) :  使用github actions自动更新文章到wordpresoo
 - [Intrduction_to_SyncedStore CRDT](https://syncedstore.org/docs/) building distributed, real-time collaborative web applications that sync automatically.
+
+#Code

@@ -1,4 +1,4 @@
-# code.awesome-startup-saas-tools
+# code·awesome-startup-saas-tools
 
 ## requirements and prototype
 - [设计原型平台 penpot](https://penpot.app/)
@@ -21,7 +21,7 @@
 - [素材 Lexica Art](https://lexica.art/)
 - [素材灵感 Addog](https://www.addog.vip/)
 - [AI Art Multimodal](https://multimodal.art/)
-- [标题标语 MicroCopy]() persuasive headlines and slogans
+- [标题标语 MicroCopy](https://www.microcopy.me) persuasive headlines and slogans
 - [素材资源 Oncyber](https://oncyber.io/)
 - [免费资源 Thosefree](https://www.thosefree.com/)
 - [开源插画 Undraw](https://undraw.co/illustrations)
@@ -535,3 +535,4 @@
 - [Intrduction_to_SyncedStore CRDT](https://syncedstore.org/docs/) building distributed, real-time collaborative web applications that sync automatically.
 
 #Code
+#9·ztd
